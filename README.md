@@ -7,6 +7,8 @@ It allows software developers to easily find and explore Swift packages for use 
 The **SPMX** App relies on the list of Swift packages from 
 [Swift Package Index](https://swiftpackageindex.com/). It is in essence an interface to this list.
 
+**SPMX** requires ios 14 or macos 11.
+
 
 #### For iPad
 
