@@ -10,7 +10,7 @@ The **SPMX** App relies on the list of Swift packages from
 
 #### For iPad
 
-The **SPMX** App for iPadOS is **free** and is available on the [Apple Store](https://workingdog.github.io/SPMExplorer/).
+The **SPMX** App for iPad is **free** and is available on the [Apple Store](https://workingdog.github.io/SPMExplorer/).
 
 #### For Mac
 
