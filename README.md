@@ -1,8 +1,9 @@
+![overview1](images/spmx2.png)
 
 **SPMX** lists Swift packages that reside on GitHub. 
 It allows software developers to easily find and explore Swift packages for use in their iOS and macOs Apps. 
 
-![overview](images/shot3.png)
+![overview2](images/shot3.png)
 
 The **SPMX** App relies on the list of Swift packages from 
 [Swift Package Index](https://swiftpackageindex.com/). It is in essence an interface to this list.
