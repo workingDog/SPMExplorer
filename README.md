@@ -14,9 +14,9 @@ The **SPMX** App relies on the list of Swift packages from
 **SPMX** requires ios 14 or macos 11.
 
 
-#### For iPad
+#### For iOS devices 
 
-The **SPMX** App for iPad is **free** and is available on the [Apple Store](https://workingdog.github.io/SPMExplorer/).
+The **SPMX** App for iOS devices is **free** and is available on the [Apple Store](https://workingdog.github.io/SPMExplorer/).
 
 #### For Mac
 
@@ -28,7 +28,7 @@ Please address all correspondence regarding the **SPMX** Apps to: <catchi.assist
 
 # Privacy Policy
  
-The following *Privacy Policy* applies to **SPMX** for iPad and Mac (the Apps).
+The following *Privacy Policy* applies to **SPMX** for iOS devices and Mac (the Apps).
  
 ##### Information Collection, Use, and Sharing
  
