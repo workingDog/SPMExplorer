@@ -15,7 +15,7 @@ To use **SPMX** you need a [GitHub account](https://github.com/). In your accoun
 
 **SPMX** requires ios 14 or macos 11.
 
-# SPMX beta testing
+# SPMX for ios beta testing
 
 #### **SPMX** is in beta testing and can be downloaded from [TestFlight](https://testflight.apple.com/join/ywkuh11I)
 
