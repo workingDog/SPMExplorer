@@ -16,13 +16,16 @@ To use **SPMX** you need a [GitHub account](https://github.com/). In your accoun
 **SPMX** requires ios 14 or macos 11.
 
 
+**SPMX** is in beta testing and can be downloaded from [TestFlight](https://testflight.apple.com/join/ywkuh11I)
+
+
 #### For iOS devices 
 
-The **SPMX** App for iOS devices is **free** and is available on the [Apple Store](https://workingdog.github.io/SPMExplorer/).
+The **SPMX** App for iOS devices is **free** and will be available on the [Apple Store](https://workingdog.github.io/SPMExplorer/).
 
 #### For Mac
 
-The **SPMX** App is also available for Mac, it is also **free** and is available on the Mac [Apple Store](https://workingdog.github.io/SPMExplorer/).
+The **SPMX** App is also available for Mac, it is also **free** and will be available on the Mac [Apple Store](https://workingdog.github.io/SPMExplorer/).
 
 # SPMX support
 
