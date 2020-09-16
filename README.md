@@ -1,5 +1,5 @@
 
-**This is all under construction, SPMX is not yet available**
+**This is all under construction, SPMX is only available for ios 14 beta testing.**
 
 ![overview1](images/spmx2.png)
 
