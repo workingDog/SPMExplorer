@@ -15,6 +15,9 @@ To use **SPMX** you need a [GitHub account](https://github.com/). In your accoun
 
 **SPMX** requires ios 14 or macos 11.
 
+Note that the Swift versions displayed, comes from the *swiftLanguageVersions* method in **Package.swift**. If not present, the Swift tools version is displayed instead.</p>
+
+
 # SPMX for ios beta testing
 
 #### **SPMX** is in beta testing and can be downloaded from [TestFlight](https://testflight.apple.com/join/YaZL6xG0)
