@@ -18,7 +18,7 @@ To use **SPMX** you need a [GitHub account](https://github.com/). In your accoun
 **SPMX** tries to gather some information from the **Package.swift** file. 
 When this file is too complex, the relevant package information may show **?**.
 
-Note that the Swift versions displayed, comes from the *swiftLanguageVersions* method in **Package.swift**. If not present, the Swift tools version is displayed instead.</p>
+Note that the Swift versions displayed, comes from the *swiftLanguageVersions* method in **Package.swift**. If not present, the Swift tools version is displayed instead.
 
 
 # SPMX for ios beta testing
