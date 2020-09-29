@@ -32,7 +32,7 @@ The **SPMX** App for iOS devices is **free** and will be available on the [Apple
 
 #### For Mac
 
-The **SPMX** App is also available for Mac, it is also **free** and will be available on the Mac [Apple Store](https://workingdog.github.io/SPMExplorer/).
+The **SPMX** App is also available for Mac for **free**, and will be available for download right here [SPMX download](https://workingdog.github.io/SPMExplorer/).
 
 # SPMX support
 
