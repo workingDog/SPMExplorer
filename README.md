@@ -20,6 +20,10 @@ When this file is too complex, the relevant package information may show **?**.
 
 Note that the Swift versions displayed, comes from the *swiftLanguageVersions* method in **Package.swift**. If not present, the Swift tools version is displayed instead.
 
+**SPMX** includes a search for keywords option. Use a set of space separated words to search **github** for swift packages. Packages that contains the selected keywords in their description or README.md file are retrieved. The maximum number of packages to search for, is set in the **Setting**. Large numbers take longer to process.
+
+
+
 
 # SPMX for ios beta testing
 
