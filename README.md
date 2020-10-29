@@ -27,7 +27,7 @@ Note that the Swift versions displayed, comes from the *swiftLanguageVersions* m
 
 # SPMX for ios beta testing
 
-#### **SPMX** is in beta testing and can be downloaded from [TestFlight](https://testflight.apple.com/JJM5cGCv)
+#### **SPMX** is in beta testing and can be downloaded from [TestFlight](https://testflight.apple.com/join/lvibokjM)
 
 
 #### For iOS devices 
