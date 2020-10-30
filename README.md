@@ -1,10 +1,13 @@
 
 **This is all under construction, SPMX is only available for ios 14 beta testing.**
 
+<br>
+<br>
 
 Webpage is at [SPMX home](https://workingdog.github.io/SPMExplorer/)
 
-
+<br>
+<br>
 
 ![overview1](images/spmx2.png)
 
