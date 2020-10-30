@@ -21,7 +21,7 @@ The **SPMX** App relies on the list of Swift packages from
 
 To use **SPMX** you need a [GitHub account](https://github.com/). In your account you also need to setup a [Personal Access Token](https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token). Use this token to login to **SPMX**.
 
-**SPMX** requires ios 14 or macos 11.
+**SPMX** requires ios 14.2 or macos 11.
 
 **SPMX** tries to gather some information from the **Package.swift** file. 
 When this file is too complex, the relevant package information may show **?**.
